@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-## SHOPPING WEBSITE app is live [CLICK HERE](https://jay-react-redux-shopping-cart.netlify.app/) to test it.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
